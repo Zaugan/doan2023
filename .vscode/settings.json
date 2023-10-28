@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stdexcept": "cpp",
+        "string": "cpp",
+        "typeinfo": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp"
+    }
+}
